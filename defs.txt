@@ -1,0 +1,238 @@
+Methodology: The systematic assessment and justification of method choice
+Typical goals of science: Prediction explanation and design
+Conventional view of methodology: Choices between different methods are justified by what is seen as “common practice” in the field.
+The best-results view of methodology: Choices between different methods should be determined based on what produces desired results.
+The epistemic tool view of methodology: Choices between different methods are determined on what one has the most reason to believe will satisfy one's epistemic goals.
+Justification: Reasons for believing a certain proposition to be true
+Instrumental reasoning: Providing justification to fulfil a clearly stated goal.
+Proposition: The information expressed in a statement or a claim. “Snow is white” and “Snö är vitt” contains the same proposition, but are two different statements.
+Prediction: Knowing that an event will occur at a future time.
+Explanation: Knowing what causes/produced an event.
+Design: Being able to design an artefact that satisfies certain functions.
+The classical definition of knowledge: True, justified belief.
+Lexical definition: A definition that intends to capture common usage of a term.
+Stipulative definition: A definition made for a specific purpose, in a specific context.
+Belief: A state of mind where a person considers a proposition to be true
+Uncertainty: A belief is uncertain if it is not absolutely justified.
+Justification: Reasons for believing a proposition to be true.
+Truth: A proposition is true if it describes how things really are.
+Empiricism: Knowledge arises from evidence gathered via sense experience.
+Observational report: A statement about sense experience.
+Instrumentalism: A scientific theory is not strictly speaking true or false, and the entities it proposes are conceptual tools, rather than something that exists.
+Realism: A scientific theory is true or false, and the entities it proposes either exist or do not exist.
+Inference: An act or a process of reaching a conclusion from a set of premises, which can express, for instance, known facts or evidence.
+Premise: a statement in an argument that justifies a conclusion.
+Conclusion: A statement that follows logically from premises.
+Generalization: Inductive inference from a sample to a general conclusion.
+Projection: Inductive inference from past samples to future samples.
+Inductive inference: In an inductive inference, the premises support the conclusion but does not guarantee its truth.
+Deductive inference: In a valid deductive inference, true premises necessitate the truth of the conclusion.
+Conditional claim: A claim involving the logical operator “if”, for instance of the form “If A then B”.
+Modus ponens: A deductive inference of the form: If A then B, A, therefore B.
+Modus tollens: A deductive inference of the form: If A then B, not B, therefore not A.
+Amplicative: Inferences that go beyond what is stated in the premises – in particular, inductive inferences are amplicative.
+Explicative: Inferences that do not go beyond what is stated (implicitly) in the premises – in particular, deductive inferences are explicative.
+Truth preservation: The conclusion must be true if the premises are true, see deductive inference.
+Fallible: The conclusion can be false even if premises are true.
+Infinite regress: A never ending chain of propositions being justified by other propositions which in turn are justified by other propositions and so on.
+Foundationalism: Propositions are justified by being inferred from foundational premises which do not need additional justification, for instance necessarily true premises.
+Coherentism: Propositions are justified by being compatible with a coherent set of propositions, where each proposition in the set is compatible with every other proposition in the set.
+Falsification: Rejecting a hypothesis as a result of an empirical test.
+Confirmation: Increasing the confidence in a hypothesis as a result of an empirical test.
+Hypothesis: A proposition that can be true or false but is not necessarily true or false, and that preferably either has some generality or is about something not directly observable.
+Tautology: A proposition which is necessarily true or false.
+Direct observation: Observations of objects and properties that are accessible through the use of human senses.
+Operationalization: A way to measure something which cannot be directly observed or that cannot be observed directly with sufficient precision, by connecting this feature with something causally connected to something that can be observed directly. Remember to distinguish falsification in the context of hypothesis testing, where it means to prove a hypothesis false, from falsification in the context of ethics, where it means the unethical behaviour of changing data to suit your opinion or target.
+Asymmetry between falsification and confirmation: No amount of confirming observations can deductively confirm the hypothesis, but one falsifying observation can deductively falsify the hypothesis.
+Falsificationism: The view that science should proceed only through valid falsification, and never use confirmation.
+Falsifiable: A hypothesis is falsifiable if it is possible to show that it is false, even if it has not yet been shown to be false.
+ Demarcation of science: Distinguishing science from nonscience by providing criteria for counting something as science.
+Corroboration: A hypothesis is corroborated if it has withstood multiple falsification attempts
+Auxiliary hypothesis: A hypothesis used to test another hypothesis, but which one does not intend to test, for instance background assumptions necessary to infer the empirical conclusion.
+Conjunction: Two propositions joined by the logical operator AND. The conjunction is true if and only if both propositions are true
+Duhem-Quine thesis: No hypothesis can be tested without the use of auxiliary hypotheses.
+Ad hoc: The modification of a claim is ad hoc if (i) the claim has previously been falsified, (ii) the modification saves the claim from this falsification and (iii) it makes the claim less falsifiable – i.e. it does not allow deriving any new testable consequences.
+Frequentism: Probabilities are frequencies of repeatable observable events.
+Tautology: A proposition or an inference which is necessarily true.
+Under-determination: An inference is underdetermined if there are multiple conclusion that would be equally supported by the premises
+Severe test: A hypothesis test is a severe test if the propability to observe a consequence would be high if the hypothesis was true.
+Empiricism: sensory experience is considered to be the ultimate basis for knowledge.
+Direct observation: by unaided sense experience
+Aided observation: to amplify sense experience.
+Indirect observation: sense experience of the effect of an event, but not the event itself
+Theory dependence: An observation is theory dependent if it requires theoretical assumptions in order to make and justify observations.
+Logical empiricism: Theories are created by inferences from fundamental observational statements.
+Operationalization: To operationalize a property of interest is to provide a way of linking it to a directly observable effect through a correlational relationship or a hypothesised causal chain.
+Property of interest: The property that is to be measured.
+Hypothesised causal chain: The supposed link between what one the property of interest and what can be directly observed
+Operationalism: The view that all basic concepts are defined through their operations, by the way which we aim to measure them.
+Comparability: A measure must be comparable to what is being observed
+Stability: A measurement unit is stable if it does not change over time.
+Unit: A unit quantifies the measure’s property, and thus allows counting it.
+Ordinal scale: Order objects according to a qualitative comparison with regard to a particular property
+Interval scale: orders objects, but also quantifies the distance between them
+Ratio scale: orders objects, quantifies the distance between them but also has zero point where zero represents an absence of the property.
+Systematic error: errors caused by specific factors that confound the measurement process. It is also called bias or inaccuracy
+Accuracy of measurement: Measurements that do not suffer from systematic error.
+Random error: Errors caused by the fluctuations of measurements due to factors that cannot or that for practical reasons will not be controlled.
+Precision: Measurements that do not suffer from random error.
+Convergent validity: Convergent validity is achieved if several, differently operationalized in causally independent ways, measurement processes, all applied to the same target under the same conditions, give the same result.
+Divergent validity: Divergent validity is achieved if an operationalization yields different results when measuring substantially different targets.
+Observation: Registering an empirical phenomenon.
+Manipulation: Changing a factor in a study.
+Intervention: Changing an independent variable.
+Control: Reducing the influence of disturbing factors from influencing the outcome.
+Independent variables: Variables that are hypothesised to affect the dependent variable.
+Dependent variables: The variable that changes depending on the changes to the independent variable.
+Experiment: An observational process characterized by control of the background factors (often through manipulation), intervention on the real target variable through manipulation and observation of the difference caused by this intervention.
+Method of difference: By creating two identical groups, and making an intervention on only one of them, the causal effect of that intervention can be studied, since the intervention is the only factor different between the groups.
+Control group: A contrast class that is not subjected to the intervention, but is similar to the treatment group in all other relevant aspects.
+Treatment group: A class that is subjected to the intervention.
+Observational study: An observational process characterized by control of the background factors and observation of an outcome, lacking an intervention.
+Natural experiment: An observational study where it is as if there had been manipulation for intervention, due to causes unrelated to the study.
+Field experiment: An experiment where there is manipulation for intervention, but where several background variables are not controlled, in particular not controlled through manipulation.
+Laboratory experiment: An experiment where there is manipulation for intervention and where all or most relevant variables are controlled.
+Simulation experiment: A model study where the model is created as to mimic an experiment, but where the variable that is intervened on is only represented, rather than actually present.
+Internal validity: An inference about an experimental system is internally valid, if the relation between intervention and observed effect inferred from the experiments is indeed true and is not confounded by uncontrolled background factors.
+Observer effect / influence problem: The act of observation changes what is observed.
+Confirmation bias / interpretation problem: The observation is registered incorrectly due to psychological properties of the observer.
+Placebo effect: The therapeutic effect that an inert substance or treatment, designed to have no therapeutic value, has on a patient
+Selection bias: A factor influences the selection of the sample, or the division in to test and control group, which one did not aim to create.
+Repetition: Performing a study again, exactly following the description of the original study.
+Reproduction: Repeating a study and obtaining the same result as in the original study.
+Replication: Performing a variation of a study with the intention to achieve the same result, where some aspect of the study has been changed to learn how this aspect influenced the result.
+Constancy: Holding background factors constant between test and control group or between trials in a study.
+Elimination: Removing the influence of a background factor
+Blinding: Eliminating observer effect or the influence problem through limiting information about the study to participants or observers.
+Single blinding / subject blinding: Blinding the participants in a study, for instance about whether they are in the test or control group.
+Experimenter blinding: Blinding the observers in a study, for instance about which subjects are in the test and control group.
+Double blinding: A study is double blind if both subject blinding and experimenter blinding are implemented.
+Separation: Registering the effect of a background variable.
+Randomization: Using a random process to choose a sample or to divide into test and control, for instance by flipping a coin.
+Evidential hierarchies: A ranking of types of evidence based on the processes that produced this evidence.
+Data stratification: Dividing a sample into categories based on specific properties before randomizing, thus ensuring that these properties are correctly represented in the test and control groups, for instance mirroring their distribution in the population.
+Known factor: A factor which you are aware of constitutes a relevant background factor.
+Unknown factor: A factor which is a relevant background factor, but which you are unaware of.
+External validity: An inference from an experimental system to a different target of interest is externally valid, if the conclusion holds not only for the system but also for the target, for instance an inference from a sample to a population
+Representation: Something is a representation of something else if it stands in for that thing, meaning we use or investigate that thing instead of what we are really interested in.
+Target: A target is what a model aims to represent.
+Idealization: The fact that a model is an idealization of its target means that it does not have all the properties that the target has, and vice versa”
+Purpose dependence: A model can only be justified on the basis of how useful it is for fulfilling a certain purpose
+Analogy: Inference by analogy is to state that a conclusion in one case applies to another case due to there being relevant similarities between the cases.
+Positive analogy: Similarity between model and target.
+Negative analogy: Dissimilarity between model and target.
+Neutral analogy: Property of model, whose occurrence in target is not known.
+Epistemic virtues of models: Types of properties of models that determine the quality of a model, given a specific purpose.
+Similarity: The degree to which the model has several properties which the target also has (there are multiple positive analogies) that are relevant for the modelling purpose.
+Robustness: A model is robust with respect to an assumption if changing this assumption does not change the model result.
+Parameter precision: One model has higher parameter precision than another model, if the specifications of the parameters of the first model implies the parameter specifications of the second.
+Simplicity: One model is simpler than another model if it contains less parameters than another model.
+Tractability: A model is computationally tractable only if its result can be computed in polynomial time. A model is analytically tractable only if the model result can be obtained through valid deduction, from the model assumptions alone. A model is theoretically tractable only if the model is either computationally or analytically tractable, and some of the necessary computational or deductive steps are justified with reference to a background theory.
+Transparency: A model is epistemically transparent if the model user is cognitively capable of understanding how the model result is produced.
+Mirror models: A model with high similarity to target.
+Isolation model: A model with high simplicity.
+Lying with statistics: The intentional misapplication of statistical tools.
+Statistical methodology: Justification of the choice between statistical methods.
+Descriptive statistics: In descriptive statistics, one aims to display data and conclusions accurately.
+Inferential statistics: In inferential statistics, one aims to draw a justified conclusion from data.
+Stochastic hypothesis: A hypothesis whose implications come in the form of a probability distribution
+Deterministic hypothesis: A hypothesis all of whose implications are certain.
+Quantitative measure of measurement error: The likelihood of a measurement error being made, presented on a quantitative scale.
+Error based statistics: Determining the probability of an observation given that a certain hypothesis is true.
+Confidence in a hypothesis: The subjective estimation of the probability of a hypothesis.
+Fisher’s significance testing: A method of statistical hypothesis testing developed by Ronald Fisher.
+Test statistic: All possible outcomes of a test, and their respective probabilities.
+Sampling distribution: A distribution over the possible outcomes of the test statistic.
+p-value: The probability of observing an outcome at least as extreme as the observed outcome.
+Significance level: A conventionally set level for p-values, below which the associated hypothesis should be rejected.
+p-value abuse: Changing test setup, statistical method or sample in order to make the p-value exceed the significance level.
+Neyman-Pearson hypothesis testing: A method of hypothesis testing developed by Jerzy Neyman and Karl Pearson.
+Null hypothesis (H0): The negation of the test hypothesis.
+Alternative hypothesis (Ha): A hypothesis that due to logical necessity has to be true if the null hypothesis is false and vice versa.
+Type I error: Wrongly rejecting a true null hypothesis
+Type II error: Wrongly accepting a false null hypothesis.
+Power of a test: The probability of correctly rejecting a false null hypothesis.
+Bayesian statistics: Posterior probability of a hypothesis is calculated based on the prior probabilities for this hypothesis together with the observed outcome, using Bayes theorem.
+Prior probability: The (estimated) probability of the hypothesis being true before the application of Bayes theorem.
+Subjective degrees of belief: The Bayesian view of what is meant by “probability” – that probability is the subjective estimation of likelihood rather than a property belonging to the world.
+Posterior probability: The (calculated) probability of the hypothesis being true after the application of Bayes theorem.
+The problem of priors: Bayesianism does not offer a clear way to determine prior probabilities.
+The principle principle: A subject’s prior probability should be assigned on the basis of objective probability, if it is known.
+The principle of indifference: A subject’s prior probabilities should be assigned equally to the possible outcomes, if there is no information about the objective probabilities.
+The problem of slow convergence: If two subjects assign sufficiently different prior probabilities to the same hypothesis, it is possible that their respective posterior probabilities will not converge even though Bayes’ theorem has been applied to large amounts of data.
+The problem of old evidence: The problem of determining what evidence that has been previously used to determine posterior probabilities.
+The problem of uncertain evidence: Bayesianism does not take uncertainty about evidence into account.
+Natural law: A scientific law, usually thought to capture fundamental relationships in the natural world.
+Law-like generalization: A generalization based on empirical evidence which appears to capture regularities in a way similar to how a law does.
+Deductive nomological account of explanation: An account of what an explanation is that is based on deduction from laws and initial conditions.
+Explanandum: What is to be explained.
+Conditional claim: A claim involving the logical operator “if”, for instance of the form “If A then B”. (See also section 2.)
+Cause: Something which produces a change in another object or in another event.
+Causal account of explanation: An account of explanation where causes are used as the explanans (what provides the explanation).
+Singular causal explanation: The explanation of a singular phenomenon or event by stating particular events as causes in the explanans.
+Explanandum (explananda): What is to be explained.
+Explanans (explanantia): What provides the explanation.
+Singular explanandum: A singular event, phenomenon or property is to be explained.
+General explanandum: A general event, phenomenon or property is to be explained.
+Singular explanans: The explanation is provided by a number of particular events, phenomena and properties.
+General explanans: The explanation is provided by a regularity or a law.
+Explanatory virtue: A property of an explanation which makes it a good explanation.
+Accuracy (explanations): The explanation is true.
+Precision of the explanandum: The contrast featured in the explanandum is precisely stated.
+Precision in the explanans: The contrast featured in the explanandum is reflected in the explanans.
+Non-sensitivity: The explanandum is not sensitive to small changes in circumstances, so that the causal chain in the explanandum is not too long
+Cognitive salience: The explanation is easy to understand.
+Direct cause: X is a direct cause of Y if and only if there is a possible intervention on X that will change Y, when all the background conditions have been held constant.
+Contributing cause: X is a contributing cause of Y with respect of a set of background variables if there is a causal chain, each link of which is a direct cause extending from X to Y. Thus in (A), although X is not a direct cause of Y, it is a contributing cause of Y.
+Causal scenario: A description of the causal chains in a situation or in a system, such as A causing B, B causingA, or C causing both A&B.
+Common cause: Two phenomena are caused by the same phenomenon.
+Instrumental variable analysis: Determining causal relationships from data.
+Tacit knowledge: Skills, ideas and experiences that people have but which are not codified and are difficult to transfer to another person by verbalizing it
+Artefact: Existing material object that are have been assigned one or multiple functions.
+Technical artefacts: an artefact which realize its function in virtue of its physical properties.
+Dual nature: technical artefacts are characterized both by their physical properties and by their intended functions
+Function: the purpose that someone intends for an artefact
+Normative: How things should be, regardless of how they are.
+Ascribed function: a function given to an existing object by a user who believes that this object has certain capacities that can fulfill a certain purpose
+Function assignment: a function given to an object by a designer by creating or describing an object with certain capacities that can fulfill a certain purpose
+Functional kind: A categorization of artefacts and their descriptions in terms of the functions they ought to satisfy
+Design: A process that develops a physical description corresponding to a functional description.
+Creation-centered: A design process creates a physical object that robustly satisfies a functional description.
+Client-oriented: A design process creates a physical object that robustly satisfies the client’s needs.
+Operational principle: The underlying, basic concept of why a particular physical structure might deliver a certain functionality.
+Satisficing: A process where search and evaluation is combined, so that options that fulfill a certain theashold are chosen.
+Design validation: Testing aimed at ensuring that a product or system fulfills the specified functional requirements under specified operating conditions
+Permission: Being morally allowed to do something.
+Obligation: Being morally required to do something.
+Prohibition: Being morally forbidden to do something.
+Descriptive ethics: Descriptive ethics studies what people consider to be right and wrong.
+Normative ethics: Normative ethics studies what people should do (irrespective of what people actually think).
+Universal rational endorsement condition: The moral code that all rational persons, under certain specified conditions, would endorse.
+Moral vs. ethical / morals vs. ethics: One distinction between morals and ethics is that morals are properties of actions, intentions or decisions (being good or bad), where ethics is providing justification for why actions, intentions or decisions have this moral property. However, in many usages this distinction is not maintained, for instance the same behaviour might be described as immoral or as unethical, without any clear difference being intended.
+Deontology: An action is permissible if it fulfils certain roles or duties. A duty might be to respect the rights of others.
+The categorical imperative: An action is right if it is in accord with a generally defensible principle.
+Risk: There are several definitions of risk. One is: the probability of an unwanted event which may or may not occur. See the literature for the “Risk assessment” lecture for more information.
+Virtue ethics: Morality consists in exemplifying good, or virtuous, character traits
+Informed consent: a prospective participant is (i) informed, (ii) participating voluntary, and (iii) decision capacitated.
+Informed consent: a prospective participant is (i) informed, (ii) participating voluntary, and (iii) decision capacitated.
+Fabrication: Intentionally making up data or results without scientific support to mislead the reader.
+Falsification: Intentionally changing data or results without scientific support to mislead the reader.
+Plagiarism: The appropriation of another person's ideas, processes, results, or words without giving appropriate credit.
+Scientific transparency: Freely sharing the material from which the conclusions were drawn.
+Whistleblowing: Exposing illegal or unethical behaviour within an organisation.
+Author: A person is an author of an article if the person has made a substantial contribution to (1) the conception of the work, (2) drafting the work, as well as (3) is involved in the approval of the final version, and finally (4) agrees to be accountable to all aspects of the work.
+Ghost author: A person who is not stated as an author but fulfils the criteria to be stated as an author.
+Gift authorship: A person who is stated as an author, for instance for social reasons, but who do not fulfil the criteria of being stated as an author.
+Frivolous research: Research conducted (at least as far as can be determined) purely for the fun of it.
+Effective altruism: A movement aiming to benefit others through the most efficient methods possible.
+Definiendum: What is to be defined.
+Definiens: What provides the definition
+Lexical definitions: What is commonly meant by a word in a certain language or context.
+Stipulaitve definition: What a word is intended to mean in a certain language or context.
+Accuracy (definitions): To what extent a lexical definitoin captures the common meaning.
+Wide: A lexical definition is too wide if its definiens applies to more things than it should.
+Narrow: A lexical definition is too narrow if there are things that its definiens does not apply to, which it should.
+Purpose dependent: The quality of a stipulative definition is dependent on its purpose and is therefore purpose dependent.
+Precision (definitions): To what extent a stipulative definition provides clarity in its context.
+Vague: A term is vague if there is no clear-cut distinction between where the word can be applied and where it cannot.
+Ambiguous: A word is ambiguous if there are two distinct meanings of the words, in the way that they could be interpreted as two completely different words.
