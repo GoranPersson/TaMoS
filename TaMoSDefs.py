@@ -11,7 +11,7 @@ def main():
         name.append(temp[0])
         defi.append(temp[1])
 
-    for item in range(0,20):
+    for item in range(0,21):
         rand = randrange(lengthtxt)
 
         print(name[rand])
